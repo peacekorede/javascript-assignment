@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 244, 244);
+}
+
+#page_wrapper{
+    display: flex;
+    margin: 13rem 30rem;
+}
+
+.icons_1{
+    width: 30px;
+    margin-top: 8rem;
+}
+
+.img_box{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.img{
+    width: 450px;
+    border-radius: 3rem;
+}
+
+.icons_2{
+    width: 30px;
+    margin-left: 1rem;
+    margin-top: 8rem;
+}
